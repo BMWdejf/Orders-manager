@@ -3,3 +3,4 @@ psycopg2-binary
 python-dotenv
 django-ninja
 django-tables2
+pillow
